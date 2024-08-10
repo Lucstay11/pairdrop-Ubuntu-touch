@@ -1,0 +1,17 @@
+{
+    "name": "pairdrop.lucstay11",
+    "description":"Transfer Files Cross-Platform. No Setup, No Signup.",
+
+    "title": "Pairdrop",
+    "architecture": "@CLICK_ARCH@",
+    "hooks": {
+        "pairdrop": {
+            "apparmor": "pairdrop.apparmor",
+            "desktop":  "pairdrop.desktop"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "Lucstay11 <tues.banni@gmail.com>",
+    "framework" : "ubuntu-sdk-20.04"
+}
+

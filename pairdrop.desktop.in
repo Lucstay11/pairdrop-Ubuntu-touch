@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Pair Drop
+Comment=Transfer file with only browser on any devices!
+Exec=pairdrop %U
+Terminal=false
+Type=Application
+Icon=assets/icon.png
+X-Ubuntu-Touch=true
+
+X-Ubuntu-Splash-Color=#111111
+#X-Ubuntu-SymbolicIcon=assets/icon.png
+X-Ubuntu-Splash-Image=assets/icon-splash.png
+
+Name[fr_FR]=PairDrop
